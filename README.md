@@ -1,1 +1,9 @@
-# Playwright
+<h1>Autmation E2E tests using Playwright</h1> 
+
+ This project focuses on automating End-to-End (E2E) testing for the fictional bank website, [Demo Bank](https://demo-bank.vercel.app/), using Playwright.
+
+
+ <h2 id="Test-plan">Test plan</h2>
+
+### Description
+The primary goal of this project is to ensure the quality and reliability of the web banking application's login functionality and bank transfer options. We will conduct functional testing to verify the correct operation of both features, covering various scenarios, including successful and failed login attempts and different bank transfer types. To ensure comprehensive testing, we will strive to execute 100% of all relevant test cases. 
